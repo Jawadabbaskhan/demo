@@ -19,6 +19,12 @@
 Senior Django Developer  
 [jawadkhan31849@gmail.com](mailto:jawadkhan31849@gmail.com)
 
+Part 1: Introduction to Django/DRF and Django request response cycle: https://www.loom.com/share/e44e19c4e4374a798067de122a7945f5?sid=f0f1127d-13d3-4bae-a06d-fdf6ddbd2fdf
+part 2: Installing dependences and creating a new project and app in django: https://www.loom.com/share/cedddcc54ec84f89a597fc75ee2ff0f4?sid=75959022-4fae-452b-b4b3-484c5e7b867d
+part 3: Database models: https://www.loom.com/share/2d4ee70be81a43aba9d45bf005de978b?sid=641279cb-21cd-4d8c-bb4e-7bd471d0f560
+part 4: APIs for saving items and getting all the saved items form databse: https://www.loom.com/share/cf27504ce59149cc9386ab5f30f18f49?sid=3ed0be8e-be14-4ab6-8c71-3d56b46904b4
+part 5: testing apis with postman: https://www.loom.com/share/a380a22fc2d44863ac4e2896838242a3?sid=a5687c3a-9c34-41f4-8ae0-922d09e71444
+
 ---
 
 ## Introduction
